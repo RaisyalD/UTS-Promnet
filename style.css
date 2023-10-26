@@ -1,0 +1,37 @@
+*{
+    font-family: 'Young Serif', serif;
+}
+
+h1{
+    color: white;
+}
+
+.img-responsive{
+    width: 1347px;
+    height: auto;
+    background-image: url("Img/fotoRai.jpeg");
+    background-size: cover;
+}
+
+.container h1 {
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.btn{
+    color: navy;
+}
+
+#intro{
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+}
+
+.svg {
+   margin: auto;
+}
+
+
